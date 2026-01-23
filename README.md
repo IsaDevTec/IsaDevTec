@@ -23,7 +23,7 @@ Software Engineering undergraduate | Passionate about technology, learning and c
 <p align="center">
   <a href="https://www.linkedin.com/in/isabela-amaro-coppola-7701231bb/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/r1KSgs0.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="mailto:amaroisabela376@gmail.com"><img width="32px" alt="email of Isabela i.e. amaroisabela376@gmail.com" src="https://i.imgur.com/nFbW7HI.png"/></a>
+  <a href="mailto:amaroisabela376@gmail.com"><img width="32px" alt="email of Isabela i.e. amaroisabela376@gmail.com" src="https://i.imgur.com/nFbW7HI.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https:https://www.instagram.com/isah.bela_?igsh=MXhvMmxzdjZ1ZnJzeg%3D%3D&utm_source=qr"><img width="32px" src="https://i.imgur.com/RGX0vou.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
