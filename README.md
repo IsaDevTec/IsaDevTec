@@ -25,7 +25,7 @@ Software Engineering undergraduate | Passionate about technology, learning and c
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:amaroisabela376@gmail.com"><img width="32px" alt="email of Isabela i.e. amaroisabela376@gmail.com" src="https://i.imgur.com/nFbW7HI.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https:https://www.instagram.com/isah.bela_?igsh=MXhvMmxzdjZ1ZnJzeg%3D%3D&utm_source=qr"><img width="32px" src="https://i.imgur.com/RGX0vou.png"/></a>
+  <a href="https://https://www.instagram.com/isah.bela_?igsh=MXhvMmxzdjZ1ZnJzeg%3D%3D&utm_source=qr"><img width="32px" src="https://i.imgur.com/RGX0vou.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/767798928481320990" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
