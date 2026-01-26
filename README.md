@@ -44,7 +44,7 @@ Software Engineering undergraduate | Passionate about technology, learning and c
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaDevTech&theme=tokyonight&"width="500px" height="200em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaDevTec&theme=tokyonight&"width="500px" height="200em" />
   
 <img width="250" height="250em" src="https://static.wikia.nocookie.net/ordemparanormal/images/2/20/Conhecimento.png/revision/latest?cb=20211227034840&path-prefix=pt-br"/>
 </div>
