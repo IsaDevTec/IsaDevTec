@@ -55,7 +55,7 @@ Software Engineering undergraduate | Passionate about technology, learning and c
 
 <div align="center">
   
-![Isabela Coppola's Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaDevTech&theme=tokyonight)
+![Isabela Coppola's Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaDevTec&theme=tokyonight)
 
 </div>
 
