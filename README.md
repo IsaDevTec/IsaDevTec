@@ -14,7 +14,7 @@ Software Engineering undergraduate | Passionate about technology, learning and c
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIsaDevTechl%2FIsaDevTechl&label=VISITORS&labelColor=f75c7e&countColor=FFB6C1" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIsaDevTechl%2FIsaDevTecl&label=VISITORS&labelColor=f75c7e&countColor=FFB6C1" />
 <br><br>
 </div>
 <br>
