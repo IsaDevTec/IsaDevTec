@@ -78,13 +78,6 @@ Software Engineering undergraduate | Passionate about technology, learning and c
 
 <br>
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![Isa's github activity graph](https://raw.githubusercontent.com/IsaDevTec/IsaDevTec/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
